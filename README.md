@@ -6,3 +6,6 @@
 
 ## __copy.c__
 - Program to copy a file using pipes, signal traps, and subprocesses
+
+## __Soon__
+- Fish.c :simplified Shell creation project
