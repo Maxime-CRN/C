@@ -9,5 +9,5 @@ Here are some of the programs I had to do in C from February to June in 2021
 ## __copy.c__
 - Program to copy a file using pipes, signal traps, and subprocesses
 
-## __Soon__
-- Fish.c :simplified Shell creation project
+## __fish.c__
+- First shell project
